@@ -1,1 +1,2 @@
-readme 2
+#!/bin/bash
+mv /tmp/my_first_directory/betty
